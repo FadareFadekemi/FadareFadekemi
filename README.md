@@ -26,8 +26,8 @@ Learning how to deploy models into production using frameworks like Flask, FastA
 Certifications : Associate data scientist in python (Data camp) in progress
 
 📫 Feel free to connect with me to discuss Data Science, AI, or potential collaborations.
-I am always open to learning from others, sharing knowledge, and exploring new opportunities. my gmail is fadekemifadare@gmail.com
- ⚡ Fun fact: I am a final year Human Nutrition and Dietetics student
+I am always open to learning from others, sharing knowledge, and exploring new opportunities. My email is fadekemifadare@gmail.com
+ ⚡ Fun fact: I am a final year Human Nutrition and Dietetics student and i am documenting my learning journey on twitter @Aitechblog
  
 
 <!---
